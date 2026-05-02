@@ -1,0 +1,5 @@
+*.dmg
+thrift images/
+.env
+*.log
+
